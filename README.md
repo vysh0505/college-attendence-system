@@ -14,6 +14,8 @@ This PHP attendance system project is primarily concerned with dealing with stud
 * Email   : teacher@mail.com
 * Password: pass123
 
+
+
 ![Screenshot 2025-07-01 185737](https://github.com/user-attachments/assets/0e8621ea-9007-4f85-ac91-8fd7633d6e4e)
 
 ![Screenshot 2025-07-01 185820](https://github.com/user-attachments/assets/06bc5911-42f7-4863-b107-fc559f1a4896)
